@@ -1,7 +1,7 @@
 NAME: F-n140-k7-s5.evrp
 COMMENT: Modificatification of F-n135-k7 instance. Modified by Mavrovouniotis Menelaou.
 TYPE: EVRP
-OPTIMAL_VALUE: 1229 (best known)
+OPTIMAL_VALUE: -
 VEHICLES: 5
 DIMENSION: 140
 STATIONS: 5
