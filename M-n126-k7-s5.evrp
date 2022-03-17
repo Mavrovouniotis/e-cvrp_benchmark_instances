@@ -1,7 +1,7 @@
 NAME: M-n126-k7-s5.evrp
 COMMENT: Modificatification of M-n121-k7 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP
-OPTIMAL_VALUE: 1140 (best known)
+OPTIMAL_VALUE: -
 VEHICLES: 7
 DIMENSION: 126
 STATIONS: 5
