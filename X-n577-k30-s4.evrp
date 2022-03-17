@@ -1,7 +1,7 @@
 NAME: X-n577-k30-s4.evrp
 COMMENT: Modificatification of X-n573-k30 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP
-OPTIMAL_VALUE: 55099 (Best Known)
+OPTIMAL_VALUE: -
 VEHICLES: 30
 DIMENSION: 577
 STATIONS: 4
