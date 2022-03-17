@@ -1,7 +1,7 @@
 NAME: M-n212-k16-s12.evrp
 COMMENT: Modificatification of M-n200-k16 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP
-OPTIMAL_VALUE: 1398 (best known)
+OPTIMAL_VALUE: -
 VEHICLES: 16
 DIMENSION: 212
 STATIONS: 12
