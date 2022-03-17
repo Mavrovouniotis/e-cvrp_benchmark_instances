@@ -1,7 +1,7 @@
 NAME: F-n80-k4-s8.evrp
 COMMENT: Modificatification of F-n72-k4 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 241 (Best Known) 
+OPTIMAL_VALUE: -
 VEHICLES: 4 
 DIMENSION: 80 
 STATIONS: 8 
