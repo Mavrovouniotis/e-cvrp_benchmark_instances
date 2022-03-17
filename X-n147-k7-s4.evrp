@@ -1,7 +1,7 @@
 NAME: X-n147-k7-s4.evrp
 COMMENT: Modificatification of X-n143-k7 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 17802 (Best Known)
+OPTIMAL_VALUE: -
 VEHICLES: 7 
 DIMENSION: 147 
 STATIONS: 4 
