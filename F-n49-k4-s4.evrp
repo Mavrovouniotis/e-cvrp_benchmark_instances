@@ -1,7 +1,7 @@
 NAME: F-n49-k4-s4.evrp
 COMMENT: Modificatification of F-n45-k4 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 740 (Upper Bound) 
+OPTIMAL_VALUE: 740 (upper bound) 
 VEHICLES: 4 
 DIMENSION: 49 
 STATIONS: 4 
