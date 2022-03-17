@@ -1,7 +1,7 @@
 NAME: X-n920-k207-s4.evrp
 COMMENT: Modificatification of X-n916-k207 instance. Modified by Mavrovouniotis&Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 344849 (Best Known) 
+OPTIMAL_VALUE: -
 VEHICLES: 207 
 DIMENSION: 920 
 STATIONS: 4 
