@@ -1,7 +1,7 @@
 NAME: E-n112-k8-s11.evrp
 COMMENT: Modificatification of E-n101-k8 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 869 (Best Known) 
+OPTIMAL_VALUE: -
 VEHICLES: 8 
 DIMENSION: 112 
 STATIONS: 11 
