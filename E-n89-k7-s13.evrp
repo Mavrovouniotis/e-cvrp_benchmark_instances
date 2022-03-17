@@ -1,7 +1,7 @@
 NAME: E-n89-k7-s13.evrp
 COMMENT: Modificatification of E-n76-k7 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 724 (Best Known)
+OPTIMAL_VALUE: -
 VEHICLES: 7 
 DIMENSION: 89 
 STATIONS: 13 
