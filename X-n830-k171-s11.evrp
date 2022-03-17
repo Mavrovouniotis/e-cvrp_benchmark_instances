@@ -1,7 +1,7 @@
 NAME: X-n830-k171-s11.evrp
 COMMENT: Modificatification of X-n819-k171 instance. Modified by Mavrovouniotis&Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 167575 (Best Known)
+OPTIMAL_VALUE: -
 VEHICLES: 171 
 DIMENSION: 830 
 STATIONS: 11 
