@@ -1,7 +1,7 @@
 NAME: E-n35-k3-s5.evrp
 COMMENT: Modificatification of E-n30-k3 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP
-OPTIMAL_VALUE: 530 (Upper Bound)
+OPTIMAL_VALUE: 527
 VEHICLES: 3
 DIMENSION: 35
 STATIONS: 5
