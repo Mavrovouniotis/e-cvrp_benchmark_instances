@@ -1,7 +1,7 @@
 NAME: E-n60-k5-s9.evrp
 COMMENT: Modificatification of E-n51-k5 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 544 (Best Known)
+OPTIMAL_VALUE: -
 VEHICLES: 5 
 DIMENSION: 60 
 STATIONS: 9 
