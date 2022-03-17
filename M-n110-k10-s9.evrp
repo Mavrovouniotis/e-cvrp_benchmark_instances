@@ -1,7 +1,7 @@
 NAME: M-n110-k10-s9.evrp
 COMMENT: Modificatification of M-n101-k10 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 933 (best known)
+OPTIMAL_VALUE: -
 VEHICLES: 10 
 DIMENSION: 110 
 STATIONS: 9 
