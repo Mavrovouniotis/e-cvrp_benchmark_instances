@@ -1,7 +1,7 @@
 NAME: X-n360-k40-s9.evrp
 COMMENT: Modificatification of X-n351-k40 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 27701 (Best Known)
+OPTIMAL_VALUE: -
 VEHICLES: 40 
 DIMENSION: 360 
 STATIONS: 9 
