@@ -1,8 +1,6 @@
 This EVRP benchmark set is published in: 
 
-M. Mavrovouniotis, C. Menealou, S. Timotheou, G. Ellinas, C. Panayiotou, M. Polycarpou. 
-A benchmark test suite for the electric capacitated vehicle routing problem, 
-2020 IEEE Congress on Evolutionary Computation (CEC), Glasgow, Scotland, UK, 2020. 
+M. Mavrovouniotis, C. Menelaou, S. Timotheou, G. Ellinas, C. Panayiotou and M. Polycarpou, "A Benchmark Test Suite for the Electric Capacitated Vehicle Routing Problem," 2020 IEEE Congress on Evolutionary Computation (CEC), 2020, pp. 1-8, doi: 10.1109/CEC48606.2020.9185753.
 
 If you use the benchmark set in your research, we would appreciate a citation in your publications.
 
