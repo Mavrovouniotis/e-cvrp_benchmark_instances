@@ -1,7 +1,7 @@
 NAME: X-n221-k11-s9.evrp
 COMMENT: Modificatification of X-n214-k11 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 12494 (Best Known)
+OPTIMAL_VALUE: -
 VEHICLES: 11 
 DIMENSION: 221 
 STATIONS: 7 
