@@ -1,7 +1,7 @@
 NAME: X-n1006-k43-s5.evrp
 COMMENT: Modificatification of X-n1001-k43 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 80765 (Best Known) 
+OPTIMAL_VALUE: -
 VEHICLES: 43 
 DIMENSION: 1006 
 STATIONS: 5 
