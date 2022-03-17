@@ -1,7 +1,7 @@
 NAME: M-n163-k12-s12.evrp
 COMMENT: Modificatification of M-n151-k12 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP
-OPTIMAL_VALUE: 1114 (best known)
+OPTIMAL_VALUE: -
 VEHICLES: 12
 DIMENSION: 163
 STATIONS: 12
