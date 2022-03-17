@@ -1,7 +1,7 @@
 NAME: X-n759-k98-s10.evrp
 COMMENT: Modificatification of X-n749-k98 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 84378 (Best Known)
+OPTIMAL_VALUE: -
 VEHICLES: 98 
 DIMENSION: 759 
 STATIONS: 10 
