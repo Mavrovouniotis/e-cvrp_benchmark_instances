@@ -1,7 +1,7 @@
 NAME: X-n698-k75-s13.evrp
 COMMENT: Modificatification of X-n685-k75 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 75048 (Best Known)
+OPTIMAL_VALUE: -
 VEHICLES: 75 
 DIMENSION: 698 
 STATIONS: 13 
