@@ -1,7 +1,7 @@
 NAME: X-n469-k26-s10.evrp
 COMMENT: Modificatification of X-n459-k26 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 26881 (Best Known)
+OPTIMAL_VALUE: -
 VEHICLES: 26 
 DIMENSION: 469 
 STATIONS: 10 
