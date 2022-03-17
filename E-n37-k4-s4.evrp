@@ -1,7 +1,7 @@
 NAME: E-n37-k4-s4.evrp
 COMMENT: Modificatification of E-n33-k4 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 865 (Best Known)
+OPTIMAL_VALUE: 857 (best known)
 VEHICLES: 4 
 DIMENSION: 37 
 STATIONS: 4 
