@@ -1,7 +1,7 @@
 NAME: E-n29-k4-s7.evrp
 COMMENT: Modificatification of E-n22-k4 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 383 (Upper Bound)
+OPTIMAL_VALUE: 383
 VEHICLES: 4 
 DIMENSION: 29 
 STATIONS: 7 
