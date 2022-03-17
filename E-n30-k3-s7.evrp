@@ -1,7 +1,7 @@
 NAME: E-n30-k3-s7.evrp
 COMMENT: Modificatification of E-n23-k3 instance. Modified by Mavrovouniotis & Menelaou.
 TYPE: EVRP 
-OPTIMAL_VALUE: 579 (Upper Bound)
+OPTIMAL_VALUE: 577
 VEHICLES: 3 
 DIMENSION: 30 
 STATIONS: 7 
